@@ -38,6 +38,12 @@
   				Download Show Flyer
 			</a>
 		</p>
+		 <p>
+		  	<a class="btn btn-default btn-warning btn-lg" href="/documents/forgotten-heros-flyer.pdf">
+  				<span class="glyphicon glyphicon-file" aria-hidden="true"></span>
+  				Download Press Release
+			</a>
+		</p>
         </div> <!-- /.Inside-Page -->
       </div> <!-- /.Row -->
 

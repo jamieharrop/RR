@@ -76,7 +76,7 @@
             <div class="col-md-4 col-sm-4 col-xs-12">
               <div class="panel panel-red">
                 <div class="panel-heading">
-                  <h3 class="panel-title text-center">Oh, What a Carry On<br />
+                  <h3 class="panel-title text-center">Oh, What a Carry On!<br />
                   The History of Cinema's<br />
                   Best-Loved Comedy Series</h3>
                 </div>
@@ -84,7 +84,7 @@
                 <div class="panel-body">
                   <p><img src="images/shows-what-a-carry-on.jpg" /></p>
 
-                  <p><a role="button" class="btn btn-red btn-md" href="shows-carry-on.php">Oh, What a Carry On</a></p>
+                  <p><a role="button" class="btn btn-red btn-md" href="shows-carry-on.php">Oh, What a Carry On!</a></p>
                 </div>
               </div>
             </div>
