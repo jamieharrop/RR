@@ -39,7 +39,7 @@
 			</a>
 		</p>
 		 <p>
-		  	<a class="btn btn-default btn-warning btn-lg" href="/documents/forgotten-heros-flyer.pdf">
+		  	<a class="btn btn-default btn-warning btn-lg" href="/documents/PRESS-RELEASE-Forgotten-Heroes-of-Comedy.pdf">
   				<span class="glyphicon glyphicon-file" aria-hidden="true"></span>
   				Download Press Release
 			</a>
