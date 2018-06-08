@@ -70,7 +70,7 @@ Website
 
 <tr>
 <td class="production-name">
-<img src="images/what-carry-show.png" alt="Oh, What A Carry On!">
+<img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
 </td>
 
 <td>
@@ -157,7 +157,7 @@ Tues July 3, 2018
 
 <tr>
 <td class="production-name">
-<img src="images/what-carry-show.png" alt="Oh, What A Carry On!">
+<img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
 </td>
 
 <td>
@@ -183,7 +183,7 @@ Fri July 6, 2018
 
 <tr>
 <td class="production-name">
-<img src="images/what-carry-show.png" alt="Oh, What A Carry On!">
+<img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
 </td>
 
 <td>
