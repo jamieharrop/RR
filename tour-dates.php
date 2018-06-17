@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -68,147 +70,7 @@ Website
 </th>
 </tr>
 
-<tr>
-<tr>
-<td class="production-name">
-<img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
-</td>
 
-<td>
-The Leatherhead theatre
-</td>
-
-<td class="tour-date">
-Thurs September 6th, 2018
-</td>
-
-<td class="time">
-7:30pm
-</td>
-
-<td>
-01372 365141
-</td>
-
-<td>
-<a href="https://www.theleatherheadtheatre.com/ohwhatacarryon">Booking Link</a>
-</td>
-</tr>
-<tr>
-<td class="production-name">
-<img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
-</td>
-<td>
-Old Laundry Theatre, Bowness
-</td>
-<td class="tour-date">
-Thurs September 20th, 2018
-</td>
-<td class="time">
-8:00pm
-</td>
-<td>
-015394 40872 
-</td>
-<td>
-<a href="https://www.oldlaundrytheatre.co.uk/event/oh-what-a-carry-on/">Booking Link</a>
-</td>
-</tr>
-<tr>
-<td class="production-name">
-<img src="images/forgotten-heros.png" alt="Forgotten Heroes of Comedy">
-</td>
-
-<td>
-Ropery Hall
-</td>
-
-<td class="tour-date">
-Thurs October 11th, 2018
-</td>
-
-<td class="time">
-7:30pm
-</td>
-
-<td>
-01652 660380
-</td>
-
-<td>
-<a href="http://www.roperyhall.co.uk/2018/04/27/robert-ross-forgotten-heroes-of-comedy/">Booking Link</a>
-</td>
-</tr>
-<tr>
-<td class="production-name">
-<img src="images/remembering-dick-emery.png" alt="Remembering Dick Emery">
-</td>
-<td>
-The Club for Acts and Actors
-</td>
-<td class="tour-date">
-Fri November 16th, 2018
-</td>
-<td class="time">
-3:00pm
-</td>
-
-<td>
-020 7836 3172
-</td>
-<td>
-<a href="http://www.thecaa.org/">Booking Link</a>
-</td>
-</tr>
-<tr>
-<td class="production-name">
-<img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
-</td>
-
-<td>
-The New Wimbledon Theatre
-</td>
-
-<td class="tour-date">
-Sun November 18th, 2018
-</td>
-
-<td class="time">
-3:00pm
-</td>
-
-<td>
-0844 871 7615
-</td>
-
-<td>
-</td>
-</tr>
-<tr>
-<td class="production-name">
-<img src="images/still-carry-on-jp.png" alt="Still Carry On: Jacki Piper">
-</td>
-
-<td>
-Museum of Comedy
-</td>
-
-<td class="tour-date">
-Sun November 25, 2018
-</td>
-
-<td class="time">
-4:00pm
-</td>
-
-<td>
-020 7534 1744
-</td>
-
-<td>
-<a href="https://museumofcomedy.ticketsolve.com/shows/873590736">Booking Link</a>
-</td>
-</tr>
 <td class="production-name">
 <img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
 </td>
@@ -641,6 +503,33 @@ Sun August 26, 2018
 </td>
 </tr>
 
+<tr>
+<tr>
+<td class="production-name">
+<img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
+</td>
+
+<td>
+The Leatherhead theatre
+</td>
+
+<td class="tour-date">
+Thurs September 6th, 2018
+</td>
+
+<td class="time">
+7:30pm
+</td>
+
+<td>
+01372 365141
+</td>
+
+<td>
+<a href="https://www.theleatherheadtheatre.com/ohwhatacarryon">Booking Link</a>
+</td>
+</tr>
+
 
 
 
@@ -699,6 +588,28 @@ Sun September 9, 2018
 </td>
 </tr>
 
+
+<tr>
+<td class="production-name">
+<img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
+</td>
+<td>
+Old Laundry Theatre, Bowness
+</td>
+<td class="tour-date">
+Thurs September 20, 2018
+</td>
+<td class="time">
+8:00pm
+</td>
+<td>
+015394 40872 
+</td>
+<td>
+<a href="https://www.oldlaundrytheatre.co.uk/event/oh-what-a-carry-on/">Booking Link</a>
+</td>
+</tr>
+
 <tr>
 <td class="production-name">
 <img src="images/carry-on-jubilee-cruise.png" alt="Carry On! The Diamond Jubilee Celebration Cruise">
@@ -725,6 +636,32 @@ Sun October 7, 2018
 
 <td>
 <a href="https://www.cruiseandmaritime.com/cruise/g8c26/mediterranean-odyssey">Booking Link</a>
+</td>
+</tr>
+
+<tr>
+<td class="production-name">
+<img src="images/forgotten-heros.png" alt="Forgotten Heroes of Comedy">
+</td>
+
+<td>
+Ropery Hall
+</td>
+
+<td class="tour-date">
+Thurs October 11, 2018
+</td>
+
+<td class="time">
+7:30pm
+</td>
+
+<td>
+01652 660380
+</td>
+
+<td>
+<a href="http://www.roperyhall.co.uk/2018/04/27/robert-ross-forgotten-heroes-of-comedy/">Booking Link</a>
 </td>
 </tr>
 
@@ -783,6 +720,79 @@ Sun November 4, 2018
 
 <td>
 <a href="https://leicestersquaretheatre.ticketsolve.com/shows/873588781">Booking Link</a>
+</td>
+</tr>
+
+<tr>
+<td class="production-name">
+<img src="images/remembering-dick-emery.png" alt="Remembering Dick Emery">
+</td>
+<td>
+The Club for Acts and Actors
+</td>
+<td class="tour-date">
+Fri November 16th, 2018
+</td>
+<td class="time">
+3:00pm
+</td>
+
+<td>
+020 7836 3172
+</td>
+<td>
+<a href="http://www.thecaa.org/">Booking Link</a>
+</td>
+</tr>
+
+<tr>
+<td class="production-name">
+<img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
+</td>
+
+<td>
+The New Wimbledon Theatre
+</td>
+
+<td class="tour-date">
+Sun November 18, 2018
+</td>
+
+<td class="time">
+3:00pm
+</td>
+
+<td>
+0844 871 7615
+</td>
+
+<td>
+</td>
+</tr>
+
+<tr>
+<td class="production-name">
+<img src="images/still-carry-on-jp.png" alt="Still Carry On: Jacki Piper">
+</td>
+
+<td>
+Museum of Comedy
+</td>
+
+<td class="tour-date">
+Sun November 25, 2018
+</td>
+
+<td class="time">
+4:00pm
+</td>
+
+<td>
+020 7534 1744
+</td>
+
+<td>
+<a href="https://museumofcomedy.ticketsolve.com/shows/873590736">Booking Link</a>
 </td>
 </tr>
 </tbody></table>
