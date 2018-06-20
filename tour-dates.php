@@ -70,36 +70,6 @@ Website
 </th>
 </tr>
 
-
-<td class="production-name">
-<img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
-</td>
-
-<td>
-Quarry Theatre, Bedford
-</td>
-
-<td class="tour-date">
-Thurs June 14, 2018
-</td>
-
-<td class="time">
-7:30pm
-</td>
-
-<td>
-01234 362337
-</td>
-
-<td>
-<a href="http://www.quarrytheatre.org.uk/shows/oh-what-a-carry-on/">Booking Link</a>
-</td>
-</tr>
-
-
-
-
-
 <tr>
 <td class="production-name">
 <img src="images/hancock-show.png" alt="Tony Hancock - A Celebration">
@@ -163,7 +133,7 @@ Tues July 3, 2018
 </td>
 
 <td>
-Quay Theatre, Sudbury
+The Quay, Sudbury
 </td>
 
 <td class="tour-date">
@@ -189,7 +159,7 @@ Fri July 6, 2018
 </td>
 
 <td>
-The Astor Theatre, Deal
+The Astor Community Theatre, Deal
 </td>
 
 <td class="tour-date">
@@ -510,11 +480,11 @@ Sun August 26, 2018
 </td>
 
 <td>
-The Leatherhead theatre
+The Leatherhead Theatre
 </td>
 
 <td class="tour-date">
-Thurs September 6th, 2018
+Thurs September 6, 2018
 </td>
 
 <td class="time">
@@ -539,7 +509,7 @@ Thurs September 6th, 2018
 </td>
 
 <td>
-The Quay Theatre, Sudbury
+The Quay, Sudbury
 </td>
 
 <td class="tour-date">
@@ -594,7 +564,7 @@ Sun September 9, 2018
 <img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
 </td>
 <td>
-Old Laundry Theatre, Bowness
+The Old Laundry Theatre, Bowness-on-Windermere
 </td>
 <td class="tour-date">
 Thurs September 20, 2018
@@ -645,7 +615,7 @@ Sun October 7, 2018
 </td>
 
 <td>
-Ropery Hall
+Ropery Hall, The Ropewalk, Barton upon Humber
 </td>
 
 <td class="tour-date">
@@ -751,7 +721,7 @@ Fri November 16th, 2018
 </td>
 
 <td>
-The New Wimbledon Theatre
+New Wimbledon Theatre, Wimbledon
 </td>
 
 <td class="tour-date">
@@ -772,7 +742,7 @@ Sun November 18, 2018
 
 <tr>
 <td class="production-name">
-<img src="images/still-carry-on-jp.png" alt="Still Carry On: Jacki Piper">
+<img src="images/still-carry-on-jp.png" alt="Jacki Piper: Still Carrying On">
 </td>
 
 <td>
