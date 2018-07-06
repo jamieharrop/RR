@@ -361,7 +361,7 @@ Sat July 28, 2018
 </td>
 
 <td>
-The Great Yorkshire Fringe
+The Great Yorkshire Fringe, The White Rose Rotunda
 </td>
 
 <td class="tour-date">
@@ -377,6 +377,7 @@ Sat July 28, 2018
 </td>
 
 <td>
+<a href="https://greatyorkshirefringe.ticketsolve.com/shows/873586259">Booking Link</a>
 </td>
 </tr>
 
