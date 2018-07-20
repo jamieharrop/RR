@@ -381,6 +381,36 @@ Sat July 28, 2018
 </td>
 </tr>
 
+
+
+<tr>
+<td class="production-name">
+<img src="images/tony-slattery-show.png" alt="Tony Slattery: Slattery Will Get You Nowhere">
+</td>
+
+<td>
+The Stand Comedy Club, Newcastle
+</td>
+
+<td class="tour-date">
+Tue July 31, 2018
+</td>
+
+<td class="time">
+7:00pm
+</td>
+
+<td>
+0191 300 9700
+</td>
+
+<td>
+<a href="http://www.thestand.co.uk/show/30543/tony_slattery_slattery_will_get_you_nowhere">Booking Link</a>
+</td>
+</tr>
+
+
+
 <tr>
 <td class="production-name">
 <img src="images/tony-slattery-improv.png" alt="Tony Slattery's Crimes Against Improv">
@@ -433,7 +463,7 @@ Sun August 26, 2018
 </td>
 
 <td>
-0131 226 0026 / From June - August 0131 226 0000
+0131 226 0000
 </td>
 
 <td>
@@ -466,13 +496,42 @@ Sun August 26, 2018
 </td>
 
 <td>
-0131 226 0026 / From June - August 0131 226 0000 
+0131 226 0000 
 </td>
 
 <td>
 <a href="https://tickets.edfringe.com/whats-on/tony-slattery-s-crimes-against-improv">Booking Link</a>
 </td>
 </tr>
+
+
+<tr>
+<td class="production-name">
+<img src="images/vaughan-trunk-show.png" alt="Vaughan in a Trunk: My Life on Stage - In Conversation with Rebecca Vaughan">
+</td>
+
+<td>
+The Swallow Theatre, Newton Stewart
+</td>
+
+<td class="tour-date">
+Tue July 31, 2018
+</td>
+
+<td class="time">
+7:00pm
+</td>
+
+<td>
+01988 850368
+</td>
+
+<td>
+<a href="https://www.swallowtheatre.co.uk/performances/vaughan-in-a-trunk-my-life-on-stage/">Booking Link</a>
+</td>
+</tr>
+
+
 
 <tr>
 <tr>
@@ -702,7 +761,7 @@ Sun November 4, 2018
 The Club for Acts and Actors
 </td>
 <td class="tour-date">
-Fri November 16th, 2018
+Fri November 16, 2018
 </td>
 <td class="time">
 3:00pm
@@ -747,7 +806,7 @@ Sun November 18, 2018
 </td>
 
 <td>
-Museum of Comedy
+The Museum of Comedy
 </td>
 
 <td class="tour-date">
