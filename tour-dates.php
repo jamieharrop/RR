@@ -515,7 +515,7 @@ The Swallow Theatre, Newton Stewart
 </td>
 
 <td class="tour-date">
-Tue July 31, 2018
+Tue August 31, 2018
 </td>
 
 <td class="time">
@@ -725,6 +725,32 @@ Sat October 27, 2018
 </td>
 </tr>
 
+<tr>
+<td class="production-name">
+<img src="images/tony-slattery-show.png" alt="Tony Slattery: Slattery Will Get You Nowhere">
+</td>
+
+<td>
+The Quarry Theatre, Bedford
+</td>
+
+<td class="tour-date">
+Sat October 27, 2018
+</td>
+
+<td class="time">
+7:30pm
+</td>
+
+<td>
+01234 362337
+</td>
+
+<td>
+<a href="http://www.quarrytheatre.org.uk/shows/slattery/">Booking Link</a>
+</td>
+</tr>
+
 
 
 <tr>
@@ -774,6 +800,36 @@ Fri November 16, 2018
 <a href="http://www.thecaa.org/">Booking Link</a>
 </td>
 </tr>
+
+
+
+<tr>
+<td class="production-name">
+<img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
+</td>
+
+<td>
+Stratford Play House,  Stratford-upon-Avon
+</td>
+
+<td class="tour-date">
+Sat November 17, 2018
+</td>
+
+<td class="time">
+7:30pm
+</td>
+
+<td>
+
+</td>
+
+<td>
+
+</td>
+</tr>
+
+
 
 <tr>
 <td class="production-name">
