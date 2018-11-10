@@ -28,6 +28,18 @@
 
           <p>Please choose your show from the list below. If you wish to book me for one of these shows, please <a href="contact.php">contact me</a>.</p>
 
+		  <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+				<div class="panel panel-red">
+				<div class="panel-heading">
+					<p><b>Buy cinema tickets for The Hot Take: It’s Political Correctness Gone Mad | BFI Southbank</b></p>
+
+					<p><a role="button" class="btn btn-success btn-md" href="https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=A0A6EBD5-4A20-4B98-959E-9BCE386403E7&BOparam::WScontent::loadArticle::context_id=57696EE6-3837-4DF8-B96E-112E83B140E2">Purchase Tickets</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+
           <div class="row">
             <div class="col-md-4 col-sm-4 col-xs-12">
               <div class="panel panel-warning">
