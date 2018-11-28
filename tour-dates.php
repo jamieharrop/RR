@@ -72,86 +72,27 @@ Website
 
 <tr>
 <td class="production-name">
-<img src="images/carry-on-jubilee-cruise.png" alt="Carry On! The Diamond Jubilee Celebration Cruise">
-</td>
-
-<td>
-The Magellan: Cruise &amp; Maritime Voyages Mediterranean Odyssey
-</td>
-
-<td>
-Sat September 22 - Sun October 7, 2018
-</td>
-
-<td class="tour-date" style="display: none;">
-Sun October 7, 2018
-</td>
-
-<td class="time">
-</td>
-
-<td>
-0844 998 3788
-</td>
-
-<td>
-<a href="https://www.cruiseandmaritime.com/cruise/g8c26/mediterranean-odyssey">Booking Link</a>
-</td>
-</tr>
-
-<tr>
-<td class="production-name">
 <img src="images/forgotten-heros.png" alt="Forgotten Heroes of Comedy">
 </td>
 
 <td>
-Ropery Hall, The Ropewalk, Barton upon Humber
+The Watershed, Bristol
 </td>
 
 <td class="tour-date">
-Thurs October 11, 2018
+Sun January 20, 2019
 </td>
 
 <td class="time">
-7:30pm
+9:30am
 </td>
 
 <td>
-01652 660380
+0117 927 5100
 </td>
 
 <td>
-<a href="http://www.roperyhall.co.uk/2018/04/27/robert-ross-forgotten-heroes-of-comedy/">Booking Link</a>
-</td>
-</tr>
-
-
-<tr>
-<td class="production-name">
-<img src="images/tv-comedy-legends-cruise.png" alt="TV Comedy Legends Cruise">
-</td>
-
-<td>
-The Columbus: Cruise &amp; Maritime Voyages Canary Islands &amp; Madeira 
-</td>
-
-<td>
-Fri October 12 - Sat October 27, 2018
-</td>
-
-<td class="tour-date" style="display: none;">
-Sat October 27, 2018
-</td>
-
-<td class="time">
-</td>
-
-<td>
-0844 998 3788
-</td>
-
-<td>
-<a href="https://www.cruiseandmaritime.com/cruise/c819/canary-islands-madeira">Booking Link</a>
+<a href="https://www.watershed.co.uk/whatson/9436/lost-heroes-of-slapstick-comedy/">Booking Link</a>
 </td>
 </tr>
 
@@ -161,184 +102,78 @@ Sat October 27, 2018
 </td>
 
 <td>
-The Quarry Theatre, Bedford
+Bristol Old Vic, The Weston Studio
 </td>
 
 <td class="tour-date">
-Sat October 27, 2018
+Sun January 20, 2019
 </td>
 
 <td class="time">
-7:30pm
+3:30pm
 </td>
 
 <td>
-01234 362337
+0117 987 7877
 </td>
 
 <td>
-<a href="http://www.quarrytheatre.org.uk/shows/slattery/">Booking Link</a>
-</td>
-</tr>
-
-
-
-<tr>
-<td class="production-name">
-<img src="images/tony-slattery-improv.png" alt="Tony Slattery's Crimes Against Improv">
-</td>
-
-<td>
-The Museum of Comedy
-</td>
-
-<td class="tour-date">
-Sun November 4, 2018
-</td>
-
-<td class="time">
-7:00pm
-</td>
-
-<td>
-020 7534 1744
-</td>
-
-<td>
-<a href="https://leicestersquaretheatre.ticketsolve.com/shows/873588781">Booking Link</a>
-</td>
-</tr>
-
-
-<tr>
-<td class="production-name">
-<img src="images/valerie-leon.png" alt="Forever Carrying On with Valerie Leon">
-</td>
-
-<td>
-The Crazy Coqs, London
-</td>
-
-<td class="tour-date">
-Wed November 7, 2018
-</td>
-
-<td class="time">
-7:00pm
-</td>
-
-<td>
-020 7734 4888
-</td>
-
-<td>
-<a href="https://www.brasseriezedel.com/live-at-zedel/valerie-leon-nov-2018">Booking Link</a>
-</td>
-</tr>
-
-
-<tr>
-<td class="production-name">
-<img src="images/remembering-dick-emery.png" alt="Remembering Dick Emery">
-</td>
-<td>
-The Club for Acts and Actors
-</td>
-<td class="tour-date">
-Fri November 16, 2018
-</td>
-<td class="time">
-3:00pm
-</td>
-
-<td>
-020 7836 3172
-</td>
-<td>
-<a href="http://www.thecaa.org/">Booking Link</a>
-</td>
-</tr>
-
-
-
-<tr>
-<td class="production-name">
-<img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
-</td>
-
-<td>
-Stratford Play House,  Stratford-upon-Avon
-</td>
-
-<td class="tour-date">
-Sat November 17, 2018
-</td>
-
-<td class="time">
-7:30pm
-</td>
-
-<td>
-01789 333990
-</td>
-
-<td>
-<a href="https://stratfordplay.co.uk/product/oh-what-a-carry-on/">Booking Link</a>
-</td>
-</tr>
-
-
-
-<tr>
-<td class="production-name">
-<img src="images/what-carry-show.png" alt="Oh, What a Carry On!">
-</td>
-
-<td>
-New Wimbledon Theatre, Wimbledon
-</td>
-
-<td class="tour-date">
-Sun November 18, 2018
-</td>
-
-<td class="time">
-3:00pm
-</td>
-
-<td>
-0844 871 7615
-</td>
-
-<td>
+<a href="https://bristololdvic.org.uk/whats-on/mini-series/slapstick-takeover">Booking Link</a>
 </td>
 </tr>
 
 <tr>
 <td class="production-name">
-<img src="images/still-carry-on-jp.png" alt="Jacki Piper: Still Carrying On">
+<img src="images/tony-slattery-show.png" alt="Tony Slattery: Slattery Will Get You Nowhere">
 </td>
 
 <td>
-The Museum of Comedy
+The Quay, Sudbury
 </td>
 
 <td class="tour-date">
-Sun November 25, 2018
+Tues February 12, 2019
 </td>
 
 <td class="time">
-4:00pm
+8pm
 </td>
 
 <td>
-020 7534 1744
+01787 374745
 </td>
 
 <td>
-<a href="https://museumofcomedy.ticketsolve.com/shows/873590736">Booking Link</a>
+<a href="https://quaysudbury.com/event/slattery-will-get-you-nowhere-tue-2019-02-12-2000">Booking Link</a>
 </td>
 </tr>
+
+<tr>
+<td class="production-name">
+<img src="images/renown-pictures.png" alt="Renown Pictures Festival of Film">
+</td>
+
+<td>
+
+</td>
+
+<td class="tour-date">
+Sun March 24, 2019
+</td>
+
+<td class="time">
+
+</td>
+
+<td>
+01923 290555
+</td>
+
+<td>
+<a href="https://www.renownfilms.co.uk/">Booking Link</a>
+</td>
+</tr>
+
 </tbody></table>
 </div>
 </div> <!-- /.Row -->
