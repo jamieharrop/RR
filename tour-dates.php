@@ -154,7 +154,7 @@ Tues February 12, 2019
 </td>
 
 <td>
-
+The Alban Arena, St. Albans
 </td>
 
 <td class="tour-date">
@@ -162,7 +162,7 @@ Sun March 24, 2019
 </td>
 
 <td class="time">
-
+10:00am
 </td>
 
 <td>
